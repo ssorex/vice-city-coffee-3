@@ -1,0 +1,2248 @@
+{
+ "categories": [
+  {
+   "id": "signature",
+   "label": "Авторские"
+  },
+  {
+   "id": "food",
+   "label": "Еда"
+  },
+  {
+   "id": "classic",
+   "label": "Классика"
+  }
+ ],
+ "items": [
+  {
+   "id": "i001",
+   "name": "Айс американо",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/ef185f3e.webp",
+   "thumb": "assets/menu/t_ef185f3e.webp"
+  },
+  {
+   "id": "i002",
+   "name": "Айс латте А",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "359 ₽"
+    }
+   ],
+   "image": "assets/menu/c9da7a0d.webp",
+   "thumb": "assets/menu/t_c9da7a0d.webp"
+  },
+  {
+   "id": "i003",
+   "name": "Американо",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "109 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "139 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "169 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i004",
+   "name": "Апельсин-брусника",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/961cdb83.webp",
+   "thumb": "assets/menu/t_961cdb83.webp"
+  },
+  {
+   "id": "i005",
+   "name": "Апельсин-яблоко",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/eb9c66ba.webp",
+   "thumb": "assets/menu/t_eb9c66ba.webp"
+  },
+  {
+   "id": "i006",
+   "name": "Бабл крайм",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "399 ₽"
+    }
+   ],
+   "image": "assets/menu/ed78b4f0.webp",
+   "thumb": "assets/menu/t_ed78b4f0.webp"
+  },
+  {
+   "id": "i007",
+   "name": "Бабл милк",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/347560e5.webp",
+   "thumb": "assets/menu/t_347560e5.webp"
+  },
+  {
+   "id": "i008",
+   "name": "Бабл-гам",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/ad06764b.webp",
+   "thumb": "assets/menu/t_ad06764b.webp"
+  },
+  {
+   "id": "i009",
+   "name": "Берри шот",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/c7f9a572.webp",
+   "thumb": "assets/menu/t_c7f9a572.webp"
+  },
+  {
+   "id": "i010",
+   "name": "Блек роуз",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/71b9f932.webp",
+   "thumb": "assets/menu/t_71b9f932.webp"
+  },
+  {
+   "id": "i011",
+   "name": "Бодрящий засада",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/d0e3ea77.webp",
+   "thumb": "assets/menu/t_d0e3ea77.webp"
+  },
+  {
+   "id": "i012",
+   "name": "Бреве",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "199 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "229 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "259 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i013",
+   "name": "Бруснично-клюквенный угон",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/d3182abd.webp",
+   "thumb": "assets/menu/t_d3182abd.webp"
+  },
+  {
+   "id": "i014",
+   "name": "Вайс-Тоник",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/75c6038a.webp",
+   "thumb": "assets/menu/t_75c6038a.webp"
+  },
+  {
+   "id": "i015",
+   "name": "Ванильная атака",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/946601e1.webp",
+   "thumb": "assets/menu/t_946601e1.webp"
+  },
+  {
+   "id": "i016",
+   "name": "Виноградное желе",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/088998d9.webp",
+   "thumb": "assets/menu/t_088998d9.webp"
+  },
+  {
+   "id": "i017",
+   "name": "Витаминный заряд",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/211093ac.webp",
+   "thumb": "assets/menu/t_211093ac.webp"
+  },
+  {
+   "id": "i018",
+   "name": "Вишня в шоколаде",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/f3eacb0c.webp",
+   "thumb": "assets/menu/t_f3eacb0c.webp"
+  },
+  {
+   "id": "i019",
+   "name": "Вишня-банан",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/2ba2e1ec.webp",
+   "thumb": "assets/menu/t_2ba2e1ec.webp"
+  },
+  {
+   "id": "i020",
+   "name": "Воздушный заряд",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/b38434d1.webp",
+   "thumb": "assets/menu/t_b38434d1.webp"
+  },
+  {
+   "id": "i021",
+   "name": "Гангстерский мохито",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/1e8a0cb5.webp",
+   "thumb": "assets/menu/t_1e8a0cb5.webp"
+  },
+  {
+   "id": "i022",
+   "name": "Гляссе",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "169 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "199 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "229 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i023",
+   "name": "Голубые облака",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/18c9659c.webp",
+   "thumb": "assets/menu/t_18c9659c.webp"
+  },
+  {
+   "id": "i024",
+   "name": "Горячая вишня",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/404d5c8f.webp",
+   "thumb": "assets/menu/t_404d5c8f.webp"
+  },
+  {
+   "id": "i025",
+   "name": "Горячий шоколад",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "219 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "259 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i026",
+   "name": "Дарк вайс",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "399 ₽"
+    }
+   ],
+   "image": "assets/menu/e97b4efa.webp",
+   "thumb": "assets/menu/t_e97b4efa.webp"
+  },
+  {
+   "id": "i027",
+   "name": "Детский латте",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "119 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "139 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i028",
+   "name": "Детский латте А",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "169 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i029",
+   "name": "Детское молоко с трубочкой",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "119 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "139 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i030",
+   "name": "Доппио",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 100,
+     "u": "мл",
+     "price": "139 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i031",
+   "name": "Закатное трио",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/cbe8225f.webp",
+   "thumb": "assets/menu/t_cbe8225f.webp"
+  },
+  {
+   "id": "i032",
+   "name": "Какао",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 100,
+     "u": "мл",
+     "price": "189 ₽"
+    },
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "159 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "189 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "219 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i033",
+   "name": "Какао А",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "199 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "249 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i034",
+   "name": "Какао-молоко",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/487d7c26.webp",
+   "thumb": "assets/menu/t_487d7c26.webp"
+  },
+  {
+   "id": "i035",
+   "name": "Калифорния тоник",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "399 ₽"
+    }
+   ],
+   "image": "assets/menu/5c7cc05d.webp",
+   "thumb": "assets/menu/t_5c7cc05d.webp"
+  },
+  {
+   "id": "i036",
+   "name": "Капучино",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 100,
+     "u": "мл",
+     "price": "189 ₽"
+    },
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "149 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "189 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "229 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i037",
+   "name": "Капучино А",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "229 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "279 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "329 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i038",
+   "name": "Карамельно-киношный",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/98d6a1fd.webp",
+   "thumb": "assets/menu/t_98d6a1fd.webp"
+  },
+  {
+   "id": "i039",
+   "name": "Киви-вишня",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/cae53144.webp",
+   "thumb": "assets/menu/t_cae53144.webp"
+  },
+  {
+   "id": "i040",
+   "name": "Кино тайм",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/29f21a9b.webp",
+   "thumb": "assets/menu/t_29f21a9b.webp"
+  },
+  {
+   "id": "i041",
+   "name": "Кислый лед",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/2ae12d03.webp",
+   "thumb": "assets/menu/t_2ae12d03.webp"
+  },
+  {
+   "id": "i042",
+   "name": "Клубничная мафия",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/c7c4f34d.webp",
+   "thumb": "assets/menu/t_c7c4f34d.webp"
+  },
+  {
+   "id": "i043",
+   "name": "Клубничная миля",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/10180b5b.webp",
+   "thumb": "assets/menu/t_10180b5b.webp"
+  },
+  {
+   "id": "i044",
+   "name": "Клубнично-воздушный",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/1e22be9e.webp",
+   "thumb": "assets/menu/t_1e22be9e.webp"
+  },
+  {
+   "id": "i045",
+   "name": "Клубничные каникулы",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/fd2aed25.webp",
+   "thumb": "assets/menu/t_fd2aed25.webp"
+  },
+  {
+   "id": "i046",
+   "name": "Кортадо",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "149 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i047",
+   "name": "Кофейно-Банановый Микс",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/8fdd4704.webp",
+   "thumb": "assets/menu/t_8fdd4704.webp"
+  },
+  {
+   "id": "i048",
+   "name": "Кофейно-пломбирный",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/0e6342a7.webp",
+   "thumb": "assets/menu/t_0e6342a7.webp"
+  },
+  {
+   "id": "i049",
+   "name": "Кофейное преступление",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/e0e0e07e.webp",
+   "thumb": "assets/menu/t_e0e0e07e.webp"
+  },
+  {
+   "id": "i050",
+   "name": "Кофейный бум",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/0b20e083.webp",
+   "thumb": "assets/menu/t_0b20e083.webp"
+  },
+  {
+   "id": "i051",
+   "name": "Кофейный Хаос",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/56242eb6.webp",
+   "thumb": "assets/menu/t_56242eb6.webp"
+  },
+  {
+   "id": "i052",
+   "name": "Крем капучино",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "199 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "229 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "259 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i053",
+   "name": "Крепкий орешек",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/40376829.webp",
+   "thumb": "assets/menu/t_40376829.webp"
+  },
+  {
+   "id": "i054",
+   "name": "Латте",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 100,
+     "u": "мл",
+     "price": "189 ₽"
+    },
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "149 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "189 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "229 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i055",
+   "name": "Латте А",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "229 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "279 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "329 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i056",
+   "name": "Латте мафиози",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/f2bde806.webp",
+   "thumb": "assets/menu/t_f2bde806.webp"
+  },
+  {
+   "id": "i057",
+   "name": "Ледяное совершенство",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/5f0b8451.webp",
+   "thumb": "assets/menu/t_5f0b8451.webp"
+  },
+  {
+   "id": "i058",
+   "name": "Ледяной Латте Лонг-Айленда",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/c9da7a0d.webp",
+   "thumb": "assets/menu/t_c9da7a0d.webp"
+  },
+  {
+   "id": "i059",
+   "name": "Лиловый аферист",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/6de063b1.webp",
+   "thumb": "assets/menu/t_6de063b1.webp"
+  },
+  {
+   "id": "i060",
+   "name": "Майами Айс ти",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/d8922bd1.webp",
+   "thumb": "assets/menu/t_d8922bd1.webp"
+  },
+  {
+   "id": "i061",
+   "name": "Майами микс",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/06685804.webp",
+   "thumb": "assets/menu/t_06685804.webp"
+  },
+  {
+   "id": "i062",
+   "name": "Макиато",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 100,
+     "u": "мл",
+     "price": "139 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i063",
+   "name": "Малина под прикрытием",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/08be8383.webp",
+   "thumb": "assets/menu/t_08be8383.webp"
+  },
+  {
+   "id": "i064",
+   "name": "Малиновая волна",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/f6f0692a.webp",
+   "thumb": "assets/menu/t_f6f0692a.webp"
+  },
+  {
+   "id": "i065",
+   "name": "Малиновая пальма",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/ff0dc4fc.webp",
+   "thumb": "assets/menu/t_ff0dc4fc.webp"
+  },
+  {
+   "id": "i066",
+   "name": "Малиновое баунти",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/f63560c2.webp",
+   "thumb": "assets/menu/t_f63560c2.webp"
+  },
+  {
+   "id": "i067",
+   "name": "Матча милк",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/2daf8553.webp",
+   "thumb": "assets/menu/t_2daf8553.webp"
+  },
+  {
+   "id": "i068",
+   "name": "Мокко",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 100,
+     "u": "мл",
+     "price": "199 ₽"
+    },
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "179 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "219 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "259 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i069",
+   "name": "Мокко А",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "239 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "289 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "339 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i070",
+   "name": "Молоко с трубочкой А",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "169 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i071",
+   "name": "Молоко-клубника",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/6ad27a1f.webp",
+   "thumb": "assets/menu/t_6ad27a1f.webp"
+  },
+  {
+   "id": "i072",
+   "name": "Молочный коктейль",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/6d87a21d.webp",
+   "thumb": "assets/menu/t_6d87a21d.webp"
+  },
+  {
+   "id": "i073",
+   "name": "Молочный хит",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "399 ₽"
+    }
+   ],
+   "image": "assets/menu/3e0d5bf0.webp",
+   "thumb": "assets/menu/t_3e0d5bf0.webp"
+  },
+  {
+   "id": "i074",
+   "name": "Морозное яблоко",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/b06a3c65.webp",
+   "thumb": "assets/menu/t_b06a3c65.webp"
+  },
+  {
+   "id": "i075",
+   "name": "Начинка #1 в закрытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/13384557.webp",
+   "thumb": "assets/menu/t_13384557.webp"
+  },
+  {
+   "id": "i076",
+   "name": "Начинка #1 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "329 ₽"
+    }
+   ],
+   "image": "assets/menu/f6332a4f.webp",
+   "thumb": "assets/menu/t_f6332a4f.webp"
+  },
+  {
+   "id": "i077",
+   "name": "Начинка #2 в закрытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "279 ₽"
+    }
+   ],
+   "image": "assets/menu/dd3c34f4.webp",
+   "thumb": "assets/menu/t_dd3c34f4.webp"
+  },
+  {
+   "id": "i078",
+   "name": "Начинка #3 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/643d5c6c.webp",
+   "thumb": "assets/menu/t_643d5c6c.webp"
+  },
+  {
+   "id": "i079",
+   "name": "Начинка #4 в закрытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "279 ₽"
+    }
+   ],
+   "image": "assets/menu/4b8c755e.webp",
+   "thumb": "assets/menu/t_4b8c755e.webp"
+  },
+  {
+   "id": "i080",
+   "name": "Начинка #4 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "319 ₽"
+    }
+   ],
+   "image": "assets/menu/d1dec500.webp",
+   "thumb": "assets/menu/t_d1dec500.webp"
+  },
+  {
+   "id": "i081",
+   "name": "Начинка #5 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/a93f0fee.webp",
+   "thumb": "assets/menu/t_a93f0fee.webp"
+  },
+  {
+   "id": "i082",
+   "name": "Начинка #6 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/e0506b1c.webp",
+   "thumb": "assets/menu/t_e0506b1c.webp"
+  },
+  {
+   "id": "i083",
+   "name": "Начинка #7 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "389 ₽"
+    }
+   ],
+   "image": "assets/menu/d27ed6ec.webp",
+   "thumb": "assets/menu/t_d27ed6ec.webp"
+  },
+  {
+   "id": "i084",
+   "name": "Начинка #8 в закрытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "259 ₽"
+    }
+   ],
+   "image": "assets/menu/dd3c34f4.webp",
+   "thumb": "assets/menu/t_dd3c34f4.webp"
+  },
+  {
+   "id": "i085",
+   "name": "Начинка #8 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "289 ₽"
+    }
+   ],
+   "image": "assets/menu/360467da.webp",
+   "thumb": "assets/menu/t_360467da.webp"
+  },
+  {
+   "id": "i086",
+   "name": "Начинка #9 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "359 ₽"
+    }
+   ],
+   "image": "assets/menu/778133c9.webp",
+   "thumb": "assets/menu/t_778133c9.webp"
+  },
+  {
+   "id": "i087",
+   "name": "Начинка #10 в открытой булке",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "319 ₽"
+    }
+   ],
+   "image": "assets/menu/12d758b0.webp",
+   "thumb": "assets/menu/t_12d758b0.webp"
+  },
+  {
+   "id": "i088",
+   "name": "Нежный пурпур",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/5061caf5.webp",
+   "thumb": "assets/menu/t_5061caf5.webp"
+  },
+  {
+   "id": "i089",
+   "name": "Неоновая роза",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/0165310c.webp",
+   "thumb": "assets/menu/t_0165310c.webp"
+  },
+  {
+   "id": "i090",
+   "name": "Олд скул",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/6e506314.webp",
+   "thumb": "assets/menu/t_6e506314.webp"
+  },
+  {
+   "id": "i091",
+   "name": "Оранж оазис",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/6d93c085.webp",
+   "thumb": "assets/menu/t_6d93c085.webp"
+  },
+  {
+   "id": "i092",
+   "name": "Орео-шоколад",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/a454ad70.webp",
+   "thumb": "assets/menu/t_a454ad70.webp"
+  },
+  {
+   "id": "i093",
+   "name": "Осенний майями",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/5043baa1.webp",
+   "thumb": "assets/menu/t_5043baa1.webp"
+  },
+  {
+   "id": "i094",
+   "name": "Пальмовый бриз",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/a095c089.webp",
+   "thumb": "assets/menu/t_a095c089.webp"
+  },
+  {
+   "id": "i095",
+   "name": "Персиковое ограбление",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/9c44103c.webp",
+   "thumb": "assets/menu/t_9c44103c.webp"
+  },
+  {
+   "id": "i096",
+   "name": "Персиковый арест",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/909a26a2.webp",
+   "thumb": "assets/menu/t_909a26a2.webp"
+  },
+  {
+   "id": "i097",
+   "name": "Преступно вкусная вишня",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/fa6ffef9.webp",
+   "thumb": "assets/menu/t_fa6ffef9.webp"
+  },
+  {
+   "id": "i098",
+   "name": "Пятая звезда",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/e863061f.webp",
+   "thumb": "assets/menu/t_e863061f.webp"
+  },
+  {
+   "id": "i099",
+   "name": "Раф",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "199 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "229 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i100",
+   "name": "Розовая дымка",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/4f4bc91f.webp",
+   "thumb": "assets/menu/t_4f4bc91f.webp"
+  },
+  {
+   "id": "i101",
+   "name": "Розовое манго",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "399 ₽"
+    }
+   ],
+   "image": "assets/menu/d6ebb55d.webp",
+   "thumb": "assets/menu/t_d6ebb55d.webp"
+  },
+  {
+   "id": "i102",
+   "name": "Розовый айсберг",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/c1f78c13.webp",
+   "thumb": "assets/menu/t_c1f78c13.webp"
+  },
+  {
+   "id": "i103",
+   "name": "Розовый кокос",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/bc5e5c5e.webp",
+   "thumb": "assets/menu/t_bc5e5c5e.webp"
+  },
+  {
+   "id": "i104",
+   "name": "Румяный гибискус",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/e35a6ca7.webp",
+   "thumb": "assets/menu/t_e35a6ca7.webp"
+  },
+  {
+   "id": "i105",
+   "name": "Санрайз Клубника-Банан",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/867620f9.webp",
+   "thumb": "assets/menu/t_867620f9.webp"
+  },
+  {
+   "id": "i106",
+   "name": "Сговор клубники и лайма",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/29d6ad50.webp",
+   "thumb": "assets/menu/t_29d6ad50.webp"
+  },
+  {
+   "id": "i107",
+   "name": "Синяя симфония",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/b6faf169.webp",
+   "thumb": "assets/menu/t_b6faf169.webp"
+  },
+  {
+   "id": "i108",
+   "name": "Сиреневый шторм",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/143e797b.webp",
+   "thumb": "assets/menu/t_143e797b.webp"
+  },
+  {
+   "id": "i109",
+   "name": "Сладкий динамит",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "399 ₽"
+    }
+   ],
+   "image": "assets/menu/acabf64b.webp",
+   "thumb": "assets/menu/t_acabf64b.webp"
+  },
+  {
+   "id": "i110",
+   "name": "Сливочно-кофейный",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/312eb5e0.webp",
+   "thumb": "assets/menu/t_312eb5e0.webp"
+  },
+  {
+   "id": "i111",
+   "name": "Сливочный восторг",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/32b3e68f.webp",
+   "thumb": "assets/menu/t_32b3e68f.webp"
+  },
+  {
+   "id": "i112",
+   "name": "Солнечный Апельсин",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/6b29e91a.webp",
+   "thumb": "assets/menu/t_6b29e91a.webp"
+  },
+  {
+   "id": "i113",
+   "name": "Сэндвич начинка #1",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "329 ₽"
+    }
+   ],
+   "image": "assets/menu/727920de.webp",
+   "thumb": "assets/menu/t_727920de.webp"
+  },
+  {
+   "id": "i114",
+   "name": "Сэндвич начинка #2",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/38b2faab.webp",
+   "thumb": "assets/menu/t_38b2faab.webp"
+  },
+  {
+   "id": "i115",
+   "name": "Сэндвич начинка #3",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "379 ₽"
+    }
+   ],
+   "image": "assets/menu/71def653.webp",
+   "thumb": "assets/menu/t_71def653.webp"
+  },
+  {
+   "id": "i116",
+   "name": "Сэндвич начинка #4",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "329 ₽"
+    }
+   ],
+   "image": "assets/menu/119c9407.webp",
+   "thumb": "assets/menu/t_119c9407.webp"
+  },
+  {
+   "id": "i117",
+   "name": "Сэндвич начинка #5",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "329 ₽"
+    }
+   ],
+   "image": "assets/menu/c42dfa59.webp",
+   "thumb": "assets/menu/t_c42dfa59.webp"
+  },
+  {
+   "id": "i118",
+   "name": "Сэндвич начинка #6",
+   "category": "food",
+   "sizes": [
+    {
+     "v": 200,
+     "u": "г",
+     "price": "379 ₽"
+    }
+   ],
+   "image": "assets/menu/0b6e433c.webp",
+   "thumb": "assets/menu/t_0b6e433c.webp"
+  },
+  {
+   "id": "i119",
+   "name": "Таежный скилл",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/59ec84b7.webp",
+   "thumb": "assets/menu/t_59ec84b7.webp"
+  },
+  {
+   "id": "i120",
+   "name": "Точка Отката",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "399 ₽"
+    }
+   ],
+   "image": "assets/menu/9ec9545a.webp",
+   "thumb": "assets/menu/t_9ec9545a.webp"
+  },
+  {
+   "id": "i121",
+   "name": "Тропический парадайс",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/6fbe95f0.webp",
+   "thumb": "assets/menu/t_6fbe95f0.webp"
+  },
+  {
+   "id": "i122",
+   "name": "Тропический сад",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/7c0901f3.webp",
+   "thumb": "assets/menu/t_7c0901f3.webp"
+  },
+  {
+   "id": "i123",
+   "name": "Фисташковая бомба",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/99047527.webp",
+   "thumb": "assets/menu/t_99047527.webp"
+  },
+  {
+   "id": "i124",
+   "name": "Флет уайт",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "169 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i125",
+   "name": "Флет уайт А",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "229 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i126",
+   "name": "Фруктовая группировка",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/fc6e30c8.webp",
+   "thumb": "assets/menu/t_fc6e30c8.webp"
+  },
+  {
+   "id": "i127",
+   "name": "Цветущая пустыня",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/3cd5d6fc.webp",
+   "thumb": "assets/menu/t_3cd5d6fc.webp"
+  },
+  {
+   "id": "i128",
+   "name": "Цитрусовый бустер",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/19784125.webp",
+   "thumb": "assets/menu/t_19784125.webp"
+  },
+  {
+   "id": "i129",
+   "name": "Цитрусовый разбойник",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/346b0bc7.webp",
+   "thumb": "assets/menu/t_346b0bc7.webp"
+  },
+  {
+   "id": "i130",
+   "name": "Цитрусовый рассвет",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/d51a3177.webp",
+   "thumb": "assets/menu/t_d51a3177.webp"
+  },
+  {
+   "id": "i131",
+   "name": "Чай листовой",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "79 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "89 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "109 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i132",
+   "name": "Чай пакетированный",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 250,
+     "u": "мл",
+     "price": "69 ₽"
+    },
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "79 ₽"
+    },
+    {
+     "v": 450,
+     "u": "мл",
+     "price": "99 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i133",
+   "name": "Чайный чит",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "199 ₽"
+    }
+   ],
+   "image": "assets/menu/9a249e8a.webp",
+   "thumb": "assets/menu/t_9a249e8a.webp"
+  },
+  {
+   "id": "i134",
+   "name": "Черносмородиновая миссия",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/52c597b4.webp",
+   "thumb": "assets/menu/t_52c597b4.webp"
+  },
+  {
+   "id": "i135",
+   "name": "Черри амаретто",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/7573d263.webp",
+   "thumb": "assets/menu/t_7573d263.webp"
+  },
+  {
+   "id": "i136",
+   "name": "Шокирующий холод",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/69137d19.webp",
+   "thumb": "assets/menu/t_69137d19.webp"
+  },
+  {
+   "id": "i137",
+   "name": "Шоколад-банан",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/40ae688f.webp",
+   "thumb": "assets/menu/t_40ae688f.webp"
+  },
+  {
+   "id": "i138",
+   "name": "Шоколадно-кокосовый",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/a0cf029f.webp",
+   "thumb": "assets/menu/t_a0cf029f.webp"
+  },
+  {
+   "id": "i139",
+   "name": "Шоколадный взрыв",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 370,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/3d87d605.webp",
+   "thumb": "assets/menu/t_3d87d605.webp"
+  },
+  {
+   "id": "i140",
+   "name": "Эппл физз",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/ab49c3fd.webp",
+   "thumb": "assets/menu/t_ab49c3fd.webp"
+  },
+  {
+   "id": "i141",
+   "name": "Эспрессо",
+   "category": "classic",
+   "sizes": [
+    {
+     "v": 100,
+     "u": "мл",
+     "price": "179 ₽"
+    },
+    {
+     "v": 100,
+     "u": "мл",
+     "price": "109 ₽"
+    }
+   ],
+   "image": null,
+   "thumb": null
+  },
+  {
+   "id": "i142",
+   "name": "Ягодная конференция",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/af2e3297.webp",
+   "thumb": "assets/menu/t_af2e3297.webp"
+  },
+  {
+   "id": "i143",
+   "name": "Ягодный вайб",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "349 ₽"
+    }
+   ],
+   "image": "assets/menu/c520ddbb.webp",
+   "thumb": "assets/menu/t_c520ddbb.webp"
+  },
+  {
+   "id": "i144",
+   "name": "Ягодный взрыв",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 500,
+     "u": "мл",
+     "price": "299 ₽"
+    }
+   ],
+   "image": "assets/menu/cfbd141f.webp",
+   "thumb": "assets/menu/t_cfbd141f.webp"
+  },
+  {
+   "id": "i145",
+   "name": "Ягодный прилив",
+   "category": "signature",
+   "sizes": [
+    {
+     "v": 350,
+     "u": "мл",
+     "price": "249 ₽"
+    }
+   ],
+   "image": "assets/menu/143ac26f.webp",
+   "thumb": "assets/menu/t_143ac26f.webp"
+  }
+ ]
+}
